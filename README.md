@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Timolix
-- 👀 I’m interested in education, start-up, oconomics and IT.
+- 👀 I’m interested in education, start-up, economics and IT.
 - 🌱 I’m currently learning Python and PHP.
 - 💞️ I’m looking to collaborate on simple projects.
 - 📫 How to reach me: tim.pietrowski@icloud.com
